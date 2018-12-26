@@ -2,7 +2,6 @@
 #读取数据
 import matplotlib.pyplot as plt
 import numpy as np
-import 
 
 dataset = np.load("dataset.npy")
 
